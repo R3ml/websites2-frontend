@@ -40,4 +40,5 @@ class CustomerService {
     }
 }
 
+//example
 export default new CustomerService();
